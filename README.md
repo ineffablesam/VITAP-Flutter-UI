@@ -1,5 +1,5 @@
 
-# VITAP - FLUTTER VERSION 2.0 UI
+# VITAP - FLUTTER VERSION 2.0 UI👾
 
 VITAP mobile application made for the students of VIT AP for their VTOP login.
 
