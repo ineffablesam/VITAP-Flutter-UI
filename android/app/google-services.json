@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1024526666483",
+    "project_id": "vitapandroid",
+    "storage_bucket": "vitapandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024526666483:android:fb04b41a841ececa27c586",
+        "android_client_info": {
+          "package_name": "com.csi.vitap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024526666483-76gehdurkfdq1u9a3kpjnrnf5sms44fo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.csi.vitap",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1024526666483-go5ud0b4nslj57juh2im0h7t0aaoe5i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPiOTyYfHGZ79PAXv4gLruY42_dw-8txc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024526666483-go5ud0b4nslj57juh2im0h7t0aaoe5i4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1024526666483-dl1ndstrntt2pg0so9er6e2c0oh0p674.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.csi.vitap"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
