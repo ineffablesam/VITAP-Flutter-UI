@@ -1,5 +1,5 @@
 
-# VITAP - FLUTTER VERSION 2.0 UI👾
+# VITAP - FLUTTER VERSION 2.0 UI 👾
 
 VITAP mobile application made for the students of VIT AP for their VTOP login.
 
@@ -59,3 +59,30 @@ For support, email sam7075938131@gmail.com or instagram @ig_samuelsam .
 ![App Screenshot](https://i.im.ge/2022/09/05/OR7sTP.Screenshot-1662384950.png)
 ![App Screenshot](https://i.im.ge/2022/09/05/OR773f.Screenshot-1662384974.png)
 ![App Screenshot](https://i.im.ge/2022/09/05/OR7Lsr.Screenshot-1662385022.png)
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/ineffablesam/VITAP-Flutter-UI.git
+```
+
+Go to the project directory
+
+```bash
+  cd VITAP-Flutter-UI
+```
+
+Install dependencies
+
+```bash
+  flutter pub get
+```
+
+Start the emulator and run program
+
+```bash
+  flutter run
+```
